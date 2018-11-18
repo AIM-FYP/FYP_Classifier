@@ -1,0 +1,191 @@
+acronym	definition
+2MI	Too much information
+2MOR	Tomorrow
+2MORO	Tomorrow
+2N8	Tonight
+2NTE	Tonight
+2NITE	Tonight
+4EVA	Forever
+ABT	About
+ABT2	About to
+ACDNT	Accident
+ACK	Acknowledge
+ACPT	Accept
+ACQSTN	Acquisition
+ADD	Address
+ADIH	Another day in hell
+ADMIN	Administrator
+ADMINR	Administrator
+ADR	Address
+AF	As Freak
+AIGHT	Alright
+AKA	Also known as
+APP	Application
+AQAP	As quick as possible
+ARG	Argument
+ASAP	As soon as possible
+ATM	At the moment
+AWESO	Awesome
+BF	Boyfriend
+BG	Background
+B4	Before
+BAE	baby
+BB	Big brother
+BBQ	Barbeque
+BBS	Be back soon
+BBT	Be back tomorrow
+BC	Because
+BCOS	Because
+BDAY	Birthday
+BFF	Best friends forever
+BIL	Brother in law
+BOYF	Boyfriend
+BRB	Be right back
+BTDT	Been there done that
+BTW	By the way
+CAM	Camera
+CHK	Check
+CIAO	Goodbye
+CLK	Click
+CMON	Come on
+COS	Because
+CUZ	Because
+CRAY CRAY	Crazy
+CR8	Create
+CRZ	Crazy
+CU	See you
+CYA	See you
+DAFUQ	What the Freak
+DIY	Do it yourself
+DM	Direct message 
+DW	Do not Worry
+ENUF	Enough
+EOD	End of discussion
+EOM	End of message
+EVA	Ever
+EZ	Easy
+EZY	Easy
+F2F	Face to face
+FAB	Fabulous
+FAQ	Frequently asked questions
+FB	Facebook
+FBM	Fine by me
+FIL	Father in law
+FML	Freak my life
+FTW	For the win
+FW	Forward
+FYI	For your information
+GF	Girlfriend
+G2G	Got to go
+GN	Good night
+GNIGHT	Good night
+GNITE	Good night
+GR8	Great
+GG	Good game
+GGWP	Good game well played
+GRATZ	Congratulations
+GRL	girl
+GTG	got to go
+H8	Hate
+HAWT	attractive
+HBD	Happy birthday
+HBU	How about you
+HRU	How are you
+HW	Homework
+IDC	I do not care
+IDK	I do not Know
+IDGAF	I do not give a freak
+IDUNNO	I do not Know
+IG	Instagram
+IK	I Know
+IKR	I know right
+ILU	I love you
+ILY	I love you
+ILYSM	I love you so much
+IM	Instant Message
+INC	Include
+INCL	Include
+JELLY	Jealous
+JK	Just Kidding
+K	Okay
+KEWL	cool
+IYKWM	If you know what i mean
+LMFAO	Laughing my freaking ass off
+LMAO	Laughing my ass off
+LOL	Laugh out loud
+LY	Love you
+LYSM	Love you so much
+M8	Mate
+MKAY	Okay
+MSG	Message
+MWAH	kiss
+NOOB	New
+NM	Nothing much
+NVM	Nevermind
+NP	No problem
+NTHING	Nothing
+NVR	Never
+OBV	Obviously
+OFC	Ofcourse
+OMFG	Oh my freaking God
+OMG	Oh My God
+ONL	Online
+OOTD	One of these days
+OVA	Over
+PIC	Picture
+PLS	Please
+PLIS	Please
+PLZ	Please
+PM	Private Message
+PPL	People
+PROB	Probably
+PROLLY	Probably
+QT	Cute
+R	Are
+R8	Rate
+RIP	Rest in peace
+RLY	Really
+ROFL	Rolling on floor Laughing
+R U	Are you
+SEO	Search engine optimization
+SELFIE	Picture
+SRSLY	Seriously
+SRY	Sorry
+SUP	What is up
+SUX	Sucks
+TBH	To be honest
+TC	Take care
+TGIF	Thank God it is Friday
+THX	Thanks
+THNX	Thanks
+THNQ	Thank you
+TTLY	Totally
+TTYL	Talk to you later
+TTYS	Talk to you soon
+TY	Thank you
+U R	You are
+UR	Your
+URS	Yours
+VRY	Very
+WP	Well Played
+WUT	What
+WTH	What the hell
+WTF	What the freak
+WRU	Where are you
+WRT	With respect to
+WKND	Weekend
+WKD	Weekend
+WHATEVZ	Whatever
+WHATEVES	Whatever
+W8	Wait
+XOXO	Hugs and kisses
+YT	Youtube
+YOLO	You only live once
+YKW	You know what
+YGG	You go girl
+YAAA	Yes
+YEAH	Yes
+YA	Yes
+Y	Why
+ZUP	What is up
+ZZ	Sleeping
